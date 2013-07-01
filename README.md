@@ -1,12 +1,13 @@
-DDTAF reconstruction in Ruby.
-=============================
+DDTAF
+=====
 
-Reconstruction from memories of python framework
+Data Driven Test Automation Framework
+-------------------------------------
+
+Reconstructing Framework from python framework
 ------------------------------------------------
-I revisited original pdf.  There were saved samples of the windows AutoIT and
-the C# version.  The AutoIT got some use, but the C# never did get much further.
-
 The original DDTAF was in Python, but I could no longer get the source code.
+There are two other small test setups, one in AutoIT and another in C#.
 
 The bin directory contains the main driver for the code.  Everything else is 
 in the lib directory.
