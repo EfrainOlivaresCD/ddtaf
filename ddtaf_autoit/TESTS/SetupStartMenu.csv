@@ -1,0 +1,16 @@
+LoadTable,Table_TaskWindow.csv,,
+Launch,startproperties,,
+SetFocus,,Taskbar and Start Menu Properties,
+SelectTab,,Taskbar and Start Menu Properties,(tab)Taskbar
+Check,,Taskbar and Start Menu Properties,(tab)Taskbar(chk)Lock the taskbar
+UnCheck,,Taskbar and Start Menu Properties,(tab)Taskbar(chk)Auto-hide the taskbar
+Check,,Taskbar and Start Menu Properties,(tab)Taskbar(chk)Keep the taskbar on top of other windows
+Check,,Taskbar and Start Menu Properties,(tab)Taskbar(chk)Group similar taskbar buttons
+UnCheck,,Taskbar and Start Menu Properties,(tab)Taskbar(chk)Show Quick Launch
+Check,,Taskbar and Start Menu Properties,(tab)Taskbar(chk)Show the clock
+UnCheck,,Taskbar and Start Menu Properties,(tab)Taskbar(chk)Hide inactive icons
+SelectTab,,Taskbar and Start Menu Properties,(tab)Start Menu
+Check,,Taskbar and Start Menu Properties,(tab)Start Menu(rdb)Start menu
+UnCheck,,Taskbar and Start Menu Properties,(tab)Start Menu(rdb)Classic Start menu
+Click,,Taskbar and Start Menu Properties,(btn)OK
+ENDTEST,,,

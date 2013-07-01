@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ConsoleApplication1.exe
+bin\Debug\ConsoleApplication1.pdb
+bin\Debug\WatiN.Core.dll
+bin\Debug\nunit.framework.dll
+bin\Debug\Interop.SHDocVw.dll
+bin\Debug\WatiN.Core.xml
+obj\Debug\ConsoleApplication1.exe
+obj\Debug\ConsoleApplication1.pdb

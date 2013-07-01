@@ -1,0 +1,4 @@
+LoadTable,Table_Outlook2007.csv,,
+SelectTab,,Options,(tab)Delegates
+WinCap,Restore,Options,(tab)Delegates
+ENDTEST,,,

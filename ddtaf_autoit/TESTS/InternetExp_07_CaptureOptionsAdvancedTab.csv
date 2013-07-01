@@ -1,0 +1,17 @@
+LoadTable,Table_InternetExp07.csv,,,
+SelectTab,,Internet Options,(tab)Advanced,continue
+Click,,Internet Options,(tab)Advanced(tvw)Settings,continue
+WinCap,TabAdvanced01,Internet Options,,continue
+KeyStroke,{PGDN},Internet Options,,continue
+WinCap,TabAdvanced02,Internet Options,,continue
+KeyStroke,{PGDN},Internet Options,,continue
+WinCap,TabAdvanced03,Internet Options,,continue
+KeyStroke,{PGDN},Internet Options,,continue
+WinCap,TabAdvanced04,Internet Options,,continue
+KeyStroke,{PGDN},Internet Options,,continue
+WinCap,TabAdvanced05,Internet Options,,continue
+KeyStroke,{PGDN},Internet Options,,continue
+WinCap,TabAdvanced06,Internet Options,,continue
+KeyStroke,{PGDN},Internet Options,,continue
+WinCap,TabAdvanced07,Internet Options,,continue
+ENDTEST,,,,

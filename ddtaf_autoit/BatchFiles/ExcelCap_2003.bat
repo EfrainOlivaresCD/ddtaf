@@ -1,0 +1,7 @@
+rem DDTAF_LITE Excel_2003_CaptureMainMenuItems.csv
+rem DDTAF_LITE Excel_2003_CaptureMacros.csv
+rem DDTAF_LITE Excel_2003_CaptureAddIns.csv
+rem DDTAF_LITE Excel_2003_CaptureAutoCorrect.csv
+rem DDTAF_LITE Excel_2003_CaptureCustomize.csv
+DDTAF_LITE Excel_2003_CaptureOptions.csv
+rem DDTAF_LITE Excel_2003_CaptureOptions_misc.csv

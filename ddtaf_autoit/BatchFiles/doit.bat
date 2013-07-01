@@ -1,0 +1,1 @@
+psexec \\XPPro-QA-Clean -u Administrator -p versora -d -i notepad.exe

@@ -1,0 +1,15 @@
+KeyStroke,!t,Microsoft Excel
+KeyStroke,a,Microsoft Excel
+WinCap,AutoCorrect_01_01_TabAutoCorrect,AutoCorrect
+KeyStroke,!e,AutoCorrect
+WinCap,AutoCorrect_01_02_01_ExceptionsTabFirstLetter,AutoCorrect Exceptions
+KeyStroke,{SHIFTDOWN}{TAB}{SHIFTUP}{RIGHT},AutoCorrect Exceptions
+WinCap,AutoCorrect_01_02_02_ExceptionsTabInitialCaps,AutoCorrect Exceptions
+KeyStroke,{ESC},AutoCorrect Exceptions
+KeyStroke,{TAB 6}{RIGHT},AutoCorrect
+WinCap,AutoCorrect_02_TabAutoFormat,AutoCorrect
+KeyStroke,{RIGHT},AutoCorrect
+WinCap,AutoCorrect_03_TabSmartTags,AutoCorrect
+KeyStroke,{LEFT}{LEFT},AutoCorrect
+KeyStroke,{ESC},AutoCorrect
+ENDTEST,,

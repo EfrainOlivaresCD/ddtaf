@@ -1,0 +1,52 @@
+LoadTable,Table_InternetExp07.csv,,,
+SelectTab,,Internet Options,(tab)Content,continue
+WinCap,TabContent,Internet Options,,continue
+Click,,Internet Options,(tab)Content\Content Advisor(btn)Settings,continue
+KeyStroke,versora,Supervisor Password Required,,continue
+KeyStroke,{ENTER},Supervisor Password Required,,continue
+SelectTab,,Content Advisor,(tab)Ratings,continue
+WinCap,TabContent_BtnSettings01,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings02,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings03,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings04,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings05,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings06,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings07,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings08,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings09,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings10,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings11,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings12,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings13,Content Advisor,,continue
+SelectTab,,Content Advisor,(tab)Approved Sites,continue
+WinCap,ContentAdvisor_TabApprovedSites,Content Advisor,,continue
+SelectTab,,Content Advisor,(tab)General,continue
+WinCap,ContentAdvisor_TabGeneral,Content Advisor,,continue
+SelectTab,,Content Advisor,(tab)Advanced,continue
+WinCap,ContentAdvisor_TabAdvanced,Content Advisor,,continue
+KeyStroke,{ESC},Content Advisor,,continue
+Click,,Internet Options,(tab)Content(btn)Certificates,continue
+WinCap,TabContent_BtnCertificates,Certificates,,continue
+KeyStroke,{ESC},Certificates,,continue
+Click,,Internet Options,(tab)Content(btn)Publishers,continue
+WinCap,TabContent_BtnPublishers,Certificates,,continue
+KeyStroke,{ESC},Certificates,,continue
+Click,,Internet Options,(tab)Content\AutoComplete(btn)Settings,continue
+WinCap,TabContent_BtnAutoCompleteSettings,AutoComplete Settings,,continue
+KeyStroke,{ESC},AutoComplete Settings,,continue
+Click,,Internet Options,(tab)Content\Feeds(btn)Settings,continue
+WinCap,TabContent_BtnFeedsSettings,Feed Settings,,continue
+KeyStroke,{ESC},Feed Settings,,continue
+ENDTEST,,,,

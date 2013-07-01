@@ -1,0 +1,7 @@
+LoadTable,Table_Outlook2003.csv,,,continue
+SelectTab,,Options,(tab)Spelling,continue
+WinCap,OptionsSpelling,Options,(tab)Spelling,continue
+Click,,Options,(tab)Spelling(btn)AutoCorrect Options,continue
+WinCap,OptionsSpelling,AutoCorrect,,continue
+KeyStroke,{ESC},AutoCorrect,,continue
+ENDTEST,,,,

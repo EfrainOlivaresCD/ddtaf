@@ -1,0 +1,7 @@
+LoadTable,Table_Outlook2007.csv,,
+SelectTab,,Options,(tab)Spelling
+WinCap,Restore,Options,(tab)Spelling
+Click,,Options,(tab)Spelling(btn)Spelling and AutoCorrection
+WinCap,Restore,Editor Options,
+KeyStroke,{ESC},Editor Options,
+ENDTEST,,,

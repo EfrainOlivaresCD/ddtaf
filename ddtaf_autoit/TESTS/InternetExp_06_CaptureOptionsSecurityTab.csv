@@ -1,0 +1,32 @@
+LoadTable,Table_InternetExp06.csv,,,
+SelectTab,,Internet Options,(tab)Security,continue
+WinCap,TabSecurity,Internet Options,,continue
+Click,,Internet Options,(tab)Security(btn)Custom level,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings01,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings02,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings03,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings04,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings05,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings06,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings07,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings08,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings09,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings10,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings11,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings12,Security Settings,,continue
+KeyStroke,{PGDN},Security Settings,,continue
+WinCap,TabSecurity_SecuritySettings13,Security Settings,,continue
+KeyStroke,{ESC},Security Settings,,
+ENDTEST,,,,

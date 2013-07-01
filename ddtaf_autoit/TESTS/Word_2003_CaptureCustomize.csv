@@ -1,0 +1,13 @@
+KeyStroke,!t,Microsoft Word,,continue
+KeyStroke,c,Microsoft Word,,continue
+KeyStroke,!b,Customize,,continue
+WinCap,Word_Customize_01TabToolbars1,Customize,,continue
+KeyStroke,{TAB}{PGDN},Customize,,continue
+KeyStroke,{PGDN},Customize,,continue
+WinCap,Word_Customize_02TabToolbars2,Customize,,continue
+KeyStroke,!c,Customize,,continue
+WinCap,Word_Customize_03TabCommands,Customize,,continue
+KeyStroke,!o,Customize,,continue
+WinCap,Word_Customize_04TabOptions,Customize,,continue
+KeyStroke,{ESC},Customize,,continue
+ENDTEST,,,,

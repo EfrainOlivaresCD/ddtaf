@@ -1,0 +1,37 @@
+KeyStroke,!t,Microsoft Excel
+KeyStroke,o,Microsoft Excel
+WinCap,OptionsMisc_00,Options
+KeyStroke,{RIGHT 3},Options
+KeyStroke,!w,Options
+WinCap,OptionsMisc_01_TabGeneral,Web Options
+KeyStroke,{RIGHT},Web Options
+WinCap,OptionsMisc_02_TabBrowsers,Web Options
+KeyStroke,{RIGHT},Web Options
+WinCap,OptionsMisc_03_TabFiles,Web Options
+KeyStroke,{RIGHT},Web Options
+WinCap,OptionsMisc_04_TabPictures,Web Options
+KeyStroke,{RIGHT},Web Options
+WinCap,OptionsMisc_05_TabEncoding,Web Options
+KeyStroke,{RIGHT},Web Options
+WinCap,OptionsMisc_06_Fonts,Web Options
+KeyStroke,{RIGHT},Web Options
+KeyStroke,{ESC},Web Options
+KeyStroke,v,Options
+WinCap,OptionsMisc_07_CustFeedOpt,Service Options
+KeyStroke,{DOWN},Service Options
+WinCap,OptionsMisc_08_OnlineContent,Service Options
+KeyStroke,{DOWN},Service Options
+WinCap,OptionsMisc_09_SharedWorkspace,Service Options
+KeyStroke,{ESC},Service Options
+KeyStroke,{TAB 9}{RIGHT 3}{UP},Options
+KeyStroke,!a,Options
+WinCap,OptionsMisc_10_EncryptionType,Encryption Type
+KeyStroke,{ESC},Encryption Type
+KeyStroke,!s,Options
+WinCap,OptionsMisc_11_SecurityLevel,Security
+KeyStroke,{RIGHT},Security
+WinCap,OptionsMisc_12_TrustedPub,Security
+KeyStroke,{RIGHT},Security
+KeyStroke,{ESC},Security
+KeyStroke,{TAB 3}{LEFT 5}{UP}{ESC},Options
+ENDTEST,,

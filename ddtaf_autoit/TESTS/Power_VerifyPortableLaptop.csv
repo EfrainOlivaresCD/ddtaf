@@ -1,0 +1,19 @@
+LoadTable,Table_PowerSettings.csv,,
+Launch,powercfg.cpl,,
+SetFocus,,Power Options Properties,
+SelectTab,,Power Options Properties,(tab)Hibernate
+IsChecked,,Power Options Properties,(tab)Hibernate(chk)Enable hibernation
+Check,,Power Options Properties,(tab)Hibernate(chk)Enable hibernation
+Click,,Power Options Properties,(btn)Apply
+SelectTab,,Power Options Properties,(tab)Power Schemes
+IsSelected,Always On,Power Options Properties,(tab)Power Schemes(cbx)Power schemes
+IsSelected,After 15 mins,Power Options Properties,(tab)Power Schemes(cbx)Turn off monitor
+IsSelected,After 30 mins,Power Options Properties,(tab)Power Schemes(cbx)Turn off hard disks
+IsSelected,After 20 mins,Power Options Properties,(tab)Power Schemes(cbx)System standby
+IsSelected,After 3 hours,Power Options Properties,(tab)Power Schemes(cbx)System hibernates
+SelectTab,,Power Options Properties,(tab)Advanced
+IsChecked,,Power Options Properties,(tab)Advanced(chk)Always show icon on the taskbar
+IsChecked,,Power Options Properties,(tab)Advanced(chk)Prompt for password when computer resumes from standby
+IsSelected,Shut down,Power Options Properties,(tab)Advanced(cbx)When I press the power button on my computer
+SelectTab,,Power Options Properties,(tab)Power Schemes
+ENDTEST,,,

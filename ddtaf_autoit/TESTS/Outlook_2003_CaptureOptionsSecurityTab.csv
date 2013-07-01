@@ -1,0 +1,4 @@
+LoadTable,Table_Outlook2003.csv,,,continue
+SelectTab,,Options,(tab)Security,continue
+WinCap,OptionsSecurity,Options,(tab)Security,continue
+ENDTEST,,,,

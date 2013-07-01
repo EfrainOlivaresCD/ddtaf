@@ -1,0 +1,12 @@
+WinCap,Options_Advanced_General,Options,,
+KeyStroke,{TAB},Options,,
+KeyStroke,{RIGHT},Options,,
+WinCap,Options_Advanced_Network,Options,,
+KeyStroke,{RIGHT},Options,,
+WinCap,Options_Advanced_Update,Options,,
+KeyStroke,{RIGHT},Options,,
+WinCap,Options_Advanced_Encryption,Options,,
+KeyStroke,{LEFT}{LEFT}{LEFT},Options,,
+KeyStroke,{SHIFT}{TAB},,,
+KeyStroke,{RIGHT},Options,,continue
+ENDTEST,,,,

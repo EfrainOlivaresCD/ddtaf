@@ -1,0 +1,4 @@
+LoadTable,Table_InternetExp06.csv,,,
+SelectTab,,Internet Options,(tab)Programs,continue
+WinCap,TabPrograms,Internet Options,,continue
+ENDTEST,,,,

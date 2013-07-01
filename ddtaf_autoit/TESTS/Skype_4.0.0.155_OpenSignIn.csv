@@ -1,0 +1,6 @@
+Launch,c:\program files\skype\phone\skype.exe,,,stop
+Sleep,10000,,,continue
+KeyStroke,kaseya49,Skype,,stop
+KeyStroke,{ENTER},Skype,,stop
+Sleep,40000,,,continue
+ENDTEST,,,,

@@ -1,0 +1,13 @@
+LoadTable,Table_Outlook2007.csv,,
+SelectTab,,Options,(tab)Mail Setup
+WinCap,Restore,Options,(tab)Mail Setup
+Click,,Options,(tab)Mail Setup(btn)E-mail Accounts
+WinCap,Restore,Account Settings,
+KeyStroke,{ESC},Account Settings,
+Click,,Options,(tab)Mail Setup(btn)Send/Receive
+WinCap,Restore,Send/Receive Groups,
+KeyStroke,{ESC},Send/Receive Groups,
+Click,,Options,(tab)Mail Setup(btn)Data Files
+WinCap,Restore,Account Settings,
+KeyStroke,{ESC},Account Settings,
+ENDTEST,,,

@@ -1,0 +1,11 @@
+KeyStroke,{ALT},David Ratchford cell,,continue
+KeyStroke,{a},David Ratchford cell,,continue
+KeyStroke,{ENTER},David Ratchford cell,,continue
+KeyStroke,{ENTER},David Ratchford cell,,continue
+Sleep,40000,,,continue
+KeyStroke,{ALT},David Ratchford cell,,continue
+KeyStroke,{a},David Ratchford cell,,continue
+KeyStroke,{ENTER},David Ratchford cell,,continue
+KeyStroke,{n},David Ratchford cell,,continue
+Sleep,1000,,,continue
+ENDTEST,,,,

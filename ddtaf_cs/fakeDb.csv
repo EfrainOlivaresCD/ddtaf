@@ -1,0 +1,20 @@
+KEY,TYPE,DATA1,DATA2,DATA3,DATA4
+(txt)User Name,blank,accessFrame,adminName,blank,blank
+(txt)Password,blank,accessFrame,pass,blank,blank
+(btn)Login,FRbNA_LIbUR,accessFrame,javascript:clickLogin(),blank,blank
+(tab)User State,FRbNA_LIbNA,banner,kusmLnk,blank,blank
+(lnk)Function List\Policy\Power,FRbNA_FObNA_LIbID,nav,navForm,3,blank
+(lnk)Function List\Policy\Mapped Drives,FRbNA_FObNA_LIbID,nav,navForm,4,blank
+(lnk)Function List\Policy\Printers,FRbNA_FObNA_LIbID,nav,navForm,5,blank
+(lnk)Function List\Dashboard\Policy Status,FRbNA_FObNA_LIbID,nav,navForm,1,blank
+(lnk)Function List\Desktop Standard\Define Package,FRbNA_FObNA_LIbID,nav,navForm,7,blank
+(lnk)Function List\Desktop Standard\Deploy Package,FRbNA_FObNA_LIbID,nav,navForm,8,blank
+(lnk)Function List\User Settings\Backup,FRbNA_FObNA_LIbID,nav,navForm,10,blank
+(lnk)Function List\User Settings\Restore,FRbNA_FObNA_LIbID,nav,navForm,11,blank
+(lnk)Function List\User Settings\Migrate,FRbNA_FObNA_LIbID,nav,navForm,12,blank
+(lnk)Function List\Configure\Install/Remove,FRbNA_FObNA_LIbID,nav,navForm,14,blank
+(lnk)Function List\Configure\Data Locations,FRbNA_FObNA_LIbID,nav,navForm,15,blank
+(lnk)Function List\Configure\Max Log Age,FRbNA_FObNA_LIbID,nav,navForm,16,blank
+(lnk)Function List\Configure\Logs,FRbNA_FObNA_LIbID,nav,navForm,17,blank
+(btn)Schedule,FRbNA_FObNA_BUbID,functionFrame,powerProfile,powerProfileScheduler_scheduleButton,blank
+(chk)FunctionFrame\FirstBox,FRbNA_FRbNA_FObNA_CHbNA,functionFrame,dataInlineFrame,UserForm,Sel0

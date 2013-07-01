@@ -1,0 +1,7 @@
+LoadTable,Table_InternetExp07.csv,,,
+SelectTab,,Internet Options,(tab)Connections,continue
+WinCap,TabConnections,Internet Options,,continue
+Click,,Internet Options,(tab)Connections(btn)LAN Settings,continue
+WinCap,TabConnections_BtnLANSettings,Local Area Network (LAN) Settings,,continue
+KeyStroke,{ESC},Local Area Network (LAN) Settings,,continue
+ENDTEST,,,,

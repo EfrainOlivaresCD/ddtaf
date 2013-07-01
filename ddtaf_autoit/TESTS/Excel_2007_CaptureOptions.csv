@@ -1,0 +1,47 @@
+KeyStroke,!t,Microsoft Excel,,continue
+KeyStroke,o,Microsoft Excel,,continue
+WinCap,Excel_Options_01TabPopular,Excel Options,,continue
+KeyStroke,!a,Excel Options,,continue
+WinCap,Excel_Options_01_1LanguageSettings,Microsoft Office Language,,continue
+KeyStroke,{ESC},Microsoft Office Language,,continue
+KeyStroke,{TAB}{TAB}{TAB},Excel Options,,continue
+KeyStroke,{DOWN},Excel Options,,continue
+WinCap,Excel_Options_02TabFormulas,Excel Options,,continue
+KeyStroke,{DOWN},Excel Options,,continue
+WinCap,Excel_Options_03_01TabProofing,Excel Options,,continue
+KeyStroke,!c,Excel Options,,continue
+KeyStroke,!d,Custom Dictionaries,,continue
+WinCap,Excel_Options_03_02CustomDic,CUSTOM.DIC,,continue
+KeyStroke,{ESC},CUSTOM.DIC,,continue
+KeyStroke,{ESC},Custom Dictionaries,,continue
+KeyStroke,!a,Excel Options,,continue
+WinCap,Excel_Options_03_07Autocorrect,AutoCorrect,,continue
+KeyStroke,{TAB 6},AutoCorrect,,continue
+KeyStroke,{RIGHT},AutoCorrect,,continue
+WinCap,Excel_Options_03_09AutoAsYouType,AutoCorrect,,continue
+KeyStroke,{RIGHT},AutoCorrect,,continue
+WinCap,Excel_Options_03_10Smarttags,AutoCorrect,,continue
+KeyStroke,{LEFT 2},AutoCorrect,,continue
+KeyStroke,{ESC},AutoCorrect,,continue
+KeyStroke,{SHIFTDOWN}{TAB}{SHIFTUP},Excel Options,,continue
+KeyStroke,{DOWN},Excel Options,,continue
+WinCap,Excel_Options_04TabSave,Excel Options,,continue
+KeyStroke,!c,Excel Options,,continue
+WinCap,Excel_Options_04_01Colors,Color,,continue
+KeyStroke,{ESC},Color,,continue
+KeyStroke,{TAB 3},Excel Options,,continue
+KeyStroke,{DOWN},Excel Options,,continue
+WinCap,Excel_Options_05_1TabAdvanced,Excel Options,,continue
+KeyStroke,{TAB}{PGDN},Excel Options,,continue
+WinCap,Excel_Options_05_2TabAdvanced,Excel Options,,continue
+KeyStroke,{PGDN},Excel Options,,continue
+WinCap,Excel_Options_05_3TabAdvanced,Excel Options,,continue
+KeyStroke,{PGDN},Excel Options,,continue
+WinCap,Excel_Options_05_4TabAdvanced,Excel Options,,continue
+KeyStroke,{SHIFTDOWN}{TAB}{SHIFTUP},Excel Options,,continue
+KeyStroke,{DOWN},Excel Options,,continue
+WinCap,Excel_Options_06TabCustomize,Excel Options,,continue
+KeyStroke,{DOWN},Excel Options,,continue
+WinCap,Excel_Options_07_01TabAddIns,Excel Options,,continue
+KeyStroke,{ESC},Excel Options,,continue
+ENDTEST,,,,

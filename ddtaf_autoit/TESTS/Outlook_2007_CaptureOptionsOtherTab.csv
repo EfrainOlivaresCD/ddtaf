@@ -1,0 +1,28 @@
+LoadTable,Table_Outlook2007.csv,,
+SelectTab,,Options,(tab)Other
+WinCap,Restore,Options,(tab)Other
+Click,,Options,(tab)Other(btn)Advanced Options
+WinCap,Restore,Advanced Options,
+Click,,Advanced Options,(btn)Reminder Options
+WinCap,Restore,Reminder Options,
+KeyStroke,{ESC},Reminder Options,
+Click,,Advanced Options,(btn)Custom Forms
+WinCap,Restore,Options,
+KeyStroke,{ESC},Options,
+Click,,Advanced Options,(btn)Service Options
+WinCap,Restore,Service Options,
+KeyStroke,{ESC},Service Options,
+KeyStroke,{ESC},Advanced Options,
+Click,,Options,(tab)Other(btn)AutoArchive
+WinCap,Restore,AutoArchive,
+KeyStroke,{ESC},AutoArchive,
+Click,,Options,(tab)Other(btn)Navigation Pane
+WinCap,Restore,Navigation Pane Options,
+KeyStroke,{ESC},Navigation Pane Options,
+Click,,Options,(tab)Other(btn)Reading Pane
+WinCap,Restore,Reading Pane,
+KeyStroke,{ESC},Reading Pane,
+Click,,Options,(tab)Other(btn)To-Do Bar
+WinCap,Restore,To-Do Bar Options,
+KeyStroke,{ESC},To-Do Bar Options,
+ENDTEST,,,

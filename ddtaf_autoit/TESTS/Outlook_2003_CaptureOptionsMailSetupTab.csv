@@ -1,0 +1,15 @@
+LoadTable,Table_Outlook2003.csv,,,continue
+SelectTab,,Options,(tab)Mail Setup,continue
+WinCap,OptionsMailSetup,Options,(tab)Mail Setup,continue
+Click,,Options,(tab)Mail Setup(btn)E-mail Accounts,continue
+WinCap,OptionsMailSetup,E-mail Accounts,,continue
+KeyStroke,!n,E-mail Accounts,,continue
+WinCap,OptionsMailSetup,E-mail Accounts,,continue
+KeyStroke,{ESC},E-mail Accounts,,continue
+Click,,Options,(tab)Mail Setup(btn)Send/Receive,continue
+WinCap,OptionsMailSetup,Send/Receive Groups,,continue
+KeyStroke,{ESC},Send/Receive Groups,,continue
+Click,,Options,(tab)Mail Setup(btn)Data Files,continue
+WinCap,OptionsMailSetup,Outlook Data Files,,continue
+KeyStroke,{ESC},Outlook Data Files,,continue
+ENDTEST,,,,

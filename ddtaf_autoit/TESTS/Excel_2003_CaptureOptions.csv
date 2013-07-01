@@ -1,0 +1,30 @@
+KeyStroke,!t,Microsoft Excel
+KeyStroke,o,Microsoft Excel
+WinCap,Options_01_TabView,Options
+KeyStroke,{RIGHT},Options
+WinCap,Options_02_TabCalculation,Options
+KeyStroke,{RIGHT},Options
+WinCap,Options_03_TabEdit,Options
+KeyStroke,{RIGHT},Options
+WinCap,Options_04_TabGeneral,Options
+KeyStroke,{RIGHT},Options
+WinCap,Options_05_TabTransition,Options
+KeyStroke,{RIGHT},Options
+WinCap,Options_06_TabCustomLists,Options
+KeyStroke,{RIGHT},Options
+WinCap,Options_07_TabChart,Options
+KeyStroke,{UP},Options
+WinCap,Options_08_TabSecurity,Options
+KeyStroke,{LEFT},Options
+WinCap,Options_09_TabSpelling,Options
+KeyStroke,{LEFT},Options
+WinCap,Options_10_TabErrorChecking,Options
+KeyStroke,{LEFT},Options
+WinCap,Options_11_TabSave,Options
+KeyStroke,{LEFT},Options
+WinCap,Options_12_TabInternational,Options
+KeyStroke,{LEFT},Options
+WinCap,Options_13_TabColor,Options
+KeyStroke,{UP},Options
+KeyStroke,{ESC},Options
+ENDTEST,,

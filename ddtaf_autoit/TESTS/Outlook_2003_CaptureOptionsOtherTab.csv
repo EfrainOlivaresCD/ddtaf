@@ -1,0 +1,28 @@
+LoadTable,Table_Outlook2003.csv,,,continue
+SelectTab,,Options,(tab)Other,continue
+WinCap,OptionsOther,Options,(tab)Other,continue
+Click,,Options,(tab)Other(btn)Advanced Options,continue
+WinCap,OptionsOther,Advanced Options,,continue
+Click,,Advanced Options,(btn)Reminder Options,continue
+WinCap,OptionsOther,Reminder Options,,continue
+KeyStroke,{ESC},Reminder Options,,continue
+Click,,Advanced Options,(btn)Custom Forms,continue
+WinCap,OptionsOther,Options,,continue
+KeyStroke,{ESC},Options,,continue
+Click,,Advanced Options,(btn)Service Options,continue
+WinCap,OptionsOther,Service Options,,continue
+KeyStroke,{ESC},Service Options,,continue
+KeyStroke,{ESC},Advanced Options,,continue
+Click,,Options,(tab)Other(btn)AutoArchive,continue
+WinCap,OptionsOther,AutoArchive,,continue
+KeyStroke,{ESC},AutoArchive,,continue
+Click,,Options,(tab)Other(btn)Navigation Pane,continue
+WinCap,OptionsOther,Navigation Pane Options,,continue
+KeyStroke,{ESC},Navigation Pane Options,,continue
+Click,,Options,(tab)Other(btn)Reading Pane,continue
+WinCap,OptionsOther,Reading Pane,,continue
+KeyStroke,{ESC},Reading Pane,,continue
+Skip,,Options,(tab)Other(btn)To-Do Bar,continue
+Skip,OptionsOther,To-Do Bar Options,,continue
+Skip,{ESC},To-Do Bar Options,,continue
+ENDTEST,,,,

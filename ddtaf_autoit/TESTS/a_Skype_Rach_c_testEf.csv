@@ -1,0 +1,11 @@
+KeyStroke,{ALT},Efrain (m),,continue
+KeyStroke,{a},Efrain (m),,continue
+KeyStroke,{ENTER},Efrain (m),,continue
+KeyStroke,{ENTER},Efrain (m),,continue
+Sleep,60000,,,continue
+KeyStroke,{ALT},Efrain (m),,continue
+KeyStroke,{a},Efrain (m),,continue
+KeyStroke,{ENTER},Efrain (m),,continue
+KeyStroke,{n},Efrain (m),,continue
+Sleep,1000,,,continue
+ENDTEST,,,,

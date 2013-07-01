@@ -1,0 +1,32 @@
+LoadTable,Table_InternetExp07.csv,,,
+SelectTab,,Internet Options,(tab)Security,continue
+WinCap,TabSecurity,Internet Options,,continue
+Click,,Internet Options,(tab)Security(btn)Custom level,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings01,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings02,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings03,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings04,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings05,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings06,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings07,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings08,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings09,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings10,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings11,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings12,Security Settings - Internet Zone,,continue
+KeyStroke,{PGDN},Security Settings - Internet Zone,,continue
+WinCap,TabSecurity_SecuritySettings13,Security Settings - Internet Zone,,continue
+KeyStroke,{ESC},Security Settings - Internet Zone,,
+ENDTEST,,,,

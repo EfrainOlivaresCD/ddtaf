@@ -1,0 +1,35 @@
+KeyStroke,!t,Microsoft Word,,continue
+KeyStroke,o,Microsoft Word,,continue
+KeyStroke,{SHIFTDOWN}{TAB}{SHIFTUP},Options,,continue
+WinCap,Word_Options_01TabView,Options,,continue
+KeyStroke,{RIGHT},Options,,continue
+WinCap,Word_Options_02TabGeneral,Options,,continue
+KeyStroke,{RIGHT},Options,,continue
+WinCap,Word_Options_03TabEdit,Options,,continue
+KeyStroke,{RIGHT},Options,,continue
+WinCap,Word_Options_04TabPrint,Options,,continue
+KeyStroke,{RIGHT},Options,,continue
+WinCap,Word_Options_05TabSave,Options,,continue
+KeyStroke,{UP},Options,,continue
+WinCap,Word_Options_06TabFileLocations,Options,,continue
+KeyStroke,{LEFT},Options,,continue
+WinCap,Word_Options_07TabCompatibility,Options,,continue
+KeyStroke,{LEFT},Options,,continue
+WinCap,Word_Options_08TabUserInformation,Options,,continue
+KeyStroke,{UP},Options,,continue
+WinCap,Word_Options_09TabSecurity,Options,,continue
+KeyStroke,{RIGHT},Options,,continue
+WinCap,Word_Options_10TabSpellingGrammer,Options,,continue
+KeyStroke,!d,Options,,continue
+KeyStroke,!m,Custom Dictionaries,,continue
+WinCap,Word_Options_10_1CustomDic,CUSTOM.DIC,,continue
+KeyStroke,{ESC},CUSTOM.DIC,,continue
+KeyStroke,{ESC},Custom Dictionaries,,continue
+KeyStroke,{TAB}{TAB},Options,,continue
+KeyStroke,{RIGHT},Options,,continue
+WinCap,Word_Options_11TabTrackChanges,Options,,continue
+KeyStroke,{LEFT},Options,,continue
+KeyStroke,{LEFT},Options,,continue
+KeyStroke,{UP},Options,,continue
+KeyStroke,{ESC},Options,,continue
+ENDTEST,,,,

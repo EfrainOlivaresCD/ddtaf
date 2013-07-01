@@ -1,0 +1,61 @@
+LoadTable,Table_Outlook2003.csv,,,continue
+SelectTab,,Options,(tab)Preferences,continue
+WinCap,OptionsPreferences,Options,(tab)Preferences,continue
+Click,,Options,(tab)Preferences(btn)Junk E-mail,continue
+SelectTab,,Junk E-mail Options,(tab)Options,continue
+WinCap,OptionsPreferences,Junk E-mail Options,(tab)Options,continue
+SelectTab,,Junk E-mail Options,(tab)Safe Senders,continue
+WinCap,OptionsPreferences,Junk E-mail Options,(tab)Safe Senders,continue
+SelectTab,,Junk E-mail Options,(tab)Safe Recipients,continue
+WinCap,OptionsPreferences,Junk E-mail Options,(tab)Safe Recipients,continue
+SelectTab,,Junk E-mail Options,(tab)Blocked Senders,continue
+WinCap,OptionsPreferences,Junk E-mail Options,(tab)Blocked Senders,continue
+Skip,,Junk E-mail Options,(tab)International,continue
+Skip,OptionsPreferences,Junk E-mail Options,(tab)International,continue
+KeyStroke,{ESC},Junk E-mail Options,,continue
+Click,,Options,(tab)Preferences(btn)E-mail Options,continue
+WinCap,OptionsPreferences,E-mail Options,,continue
+Click,,E-mail Options,(btn)Advanced E-mail Options,continue
+WinCap,OptionsPreferences,Advanced E-mail Options,,continue
+Click,,Advanced E-mail Options,(btn)Desktop Alert Settings,continue
+WinCap,OptionsPreferences,Desktop Alert Settings,,continue
+KeyStroke,{ESC},Desktop Alert Settings,,continue
+KeyStroke,{ESC},Advanced E-mail Options,,continue
+Click,,E-mail Options,(btn)Tracking Options,continue
+WinCap,OptionsPreferences,Tracking Options,,continue
+KeyStroke,{ESC},Tracking Options,,continue
+KeyStroke,{ESC},E-mail Options,,continue
+Click,,Options,(tab)Preferences(btn)Calendar Options,continue
+WinCap,OptionsPreferences,Calendar Options,,continue
+Click,,Calendar Options,(btn)Planner Options,continue
+WinCap,OptionsPreferences,Planner Options,,continue
+KeyStroke,{ESC},Planner Options,,continue
+Click,,Calendar Options,(btn)Add Holidays,continue
+WinCap,OptionsPreferences,Add Holidays to Calendar,,continue
+KeyStroke,{ESC},Add Holidays to Calendar,,continue
+Click,,Calendar Options,(btn)Free/Busy Options,continue
+WinCap,OptionsPreferences,Free/Busy Options,,continue
+KeyStroke,{ESC},Free/Busy Options,,continue
+Skip,,Calendar Options,(btn)Resource Scheduling,continue
+Skip,OptionsPreferences,Resource Scheduling,,continue
+Skip,{ESC},Resource Scheduling,,continue
+Click,,Calendar Options,(btn)Time Zone,continue
+WinCap,OptionsPreferences,Time Zone,,continue
+KeyStroke,{ESC},Time Zone,,continue
+KeyStroke,{ESC},Calendar Options,,continue
+Click,,Options,(tab)Preferences(btn)Task Options,continue
+WinCap,OptionsPreferences,Task Options,,continue
+KeyStroke,{ESC},Task Options,,continue
+Click,,Options,(tab)Preferences(btn)Contact Options,continue
+WinCap,OptionsPreferences,Contact Options,,continue
+KeyStroke,{ESC},Contact Options,,continue
+Click,,Options,(tab)Preferences(btn)Journal Options,continue
+WinCap,OptionsPreferences,Journal Options,,continue
+KeyStroke,{ESC},Journal Options,,continue
+Click,,Options,(tab)Preferences(btn)Note Options,continue
+WinCap,OptionsPreferences,Notes Options,,continue
+KeyStroke,{ESC},Notes Options,,continue
+Skip,,Options,(tab)Preferences(btn)Search Options,continue
+Skip,OptionsPreferences,Search Options,,continue
+Skip,{ESC},Search Options,,continue
+ENDTEST,,,,

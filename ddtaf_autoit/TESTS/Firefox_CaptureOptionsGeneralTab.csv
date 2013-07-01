@@ -1,0 +1,30 @@
+WinCap,Options_Main,Options,,continue
+KeyStroke,{RIGHT},Options,,continue
+WinCap,Options_Tabs,Options,,continue
+KeyStroke,{RIGHT},Options,,continue
+WinCap,Options_Content,Options,,continue
+KeyStroke,{TAB 2}{e},Options,,
+WinCap,Options_Content_Exceptions1,Allowed Sites - Popups,,
+KeyStroke,!c,Allowed Sites - Popups,,
+KeyStroke,{TAB 2}{x},Options,,
+WinCap,Options_Content_Exceptions2,Exceptions - Images,,
+KeyStroke,!c,Exceptions - Images,,
+KeyStroke,{TAB 2}{v},Options,,
+WinCap,Options_Content_Advanced,Advanced JavaScript Settings,,
+KeyStroke,{ESC},Advanced JavaScript Settings,,
+KeyStroke,{TAB 4}{d},Options,,
+WinCap,Options_Content_Fonts,Fonts,,
+KeyStroke,{ESC},Fonts,,
+KeyStroke,{TAB}{c},Options,,
+WinCap,Options_Content_Colors,Colors,,
+KeyStroke,{ESC},Colors,,
+KeyStroke,{TAB}{m},Options,,
+WinCap,Options_Content_Manage,Download Actions,,
+KeyStroke,!o,Download Actions,,
+KeyStroke,{ESC},Options,,
+KeyStroke,!t,Mozilla Firefox,,continue
+KeyStroke,o,Mozilla Firefox,,continue
+KeyStroke,{RIGHT},Options,,
+WinCap,Options_Feeds,Options,,continue
+KeyStroke,{RIGHT},Options,,continue
+ENDTEST,,,,

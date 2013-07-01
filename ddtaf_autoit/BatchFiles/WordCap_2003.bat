@@ -1,0 +1,4 @@
+DDTAF_LITE Word_2003_CaptureMainMenuItems.csv
+DDTAF_LITE Word_2003_CaptureCustomize.csv
+DDTAF_LITE Word_2003_CaptureOptions.csv
+pause

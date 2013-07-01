@@ -1,0 +1,19 @@
+LoadTable,Table_InternetExp06.csv,,,
+SelectTab,,Internet Options,(tab)General,continue
+WinCap,TabGeneral,Internet Options,(tab)General,continue
+Click,,Internet Options,(tab)General(btn)Settings,continue
+WinCap,TabGeneral_BtnSettings,Settings,,continue
+KeyStroke,{ESC},Settings,,continue
+Click,,Internet Options,(tab)General(btn)Colors,continue
+WinCap,TabGeneral_BtnColors,Colors,,continue
+KeyStroke,{ESC},Colors,,continue
+Click,,Internet Options,(tab)General(btn)Fonts,continue
+WinCap,TabGeneral_BtnFonts,Fonts,,continue
+KeyStroke,{ESC},Fonts,,continue
+Click,,Internet Options,(tab)General(btn)Languages,continue
+WinCap,TabGeneral_BtnLanguages,Language Preference,,continue
+KeyStroke,{ESC},Language Preference,,continue
+Click,,Internet Options,(tab)General(btn)Accessibility,continue
+WinCap,TabGeneral_BtnAccessibility,Accessibility,,continue
+KeyStroke,{ESC},Accessibility,,continue
+ENDTEST,,,,

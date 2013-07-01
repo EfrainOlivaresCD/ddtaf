@@ -1,0 +1,67 @@
+KeyStroke,!t,Microsoft Word
+KeyStroke,o,Microsoft Word
+WinCap,Word_Options_01TabPopular,Word Options
+KeyStroke,!a,Word Options
+WinCap,Word_Option_01_1LanguageSettings,Language Settings
+KeyStroke,{ESC},Language Settings
+KeyStroke,{TAB}{TAB}{TAB},Word Options
+KeyStroke,{DOWN},Word Options
+WinCap,Word_Options_02TabDisplay,Word Options
+KeyStroke,{DOWN},Word Options
+WinCap,Word_Options_03_01TabProofing,Word Options
+KeyStroke,!c,Word Options
+KeyStroke,!d,Custom Dictionaries
+WinCap,Word_Options_03_02CustomDic,CUSTOM.DIC
+KeyStroke,{ESC},CUSTOM.DIC
+KeyStroke,{ESC},Custom Dictionaries
+KeyStroke,!t,Word Options
+WinCap,Word_Options_03_03GrammarSettings,Grammar Settings
+KeyStroke,{TAB}{PGDN}{PGDN},Grammar Settings
+WinCap,Word_Options_03_04GrammarSettings,Grammar Settings
+KeyStroke,{PGDN},Grammar Settings
+WinCap,Word_Options_03_05GrammarSettings,Grammar Settings
+KeyStroke,{PGDN},Grammar Settings
+WinCap,Word_Options_03_06GrammarSettings,Grammar Settings
+KeyStroke,{ESC},Grammar Settings
+KeyStroke,!a,Word Options
+WinCap,Word_Options_03_07Autocorrect,AutoCorrect
+KeyStroke,{TAB}{TAB}{TAB}{TAB}{TAB}{TAB},AutoCorrect
+KeyStroke,{RIGHT},AutoCorrect
+WinCap,Word_Options_03_08MathAutocorrect,AutoCorrect
+KeyStroke,{RIGHT},AutoCorrect
+WinCap,Word_Options_03_09AutoAsYouType,AutoCorrect
+KeyStroke,{UP},AutoCorrect
+WinCap,Word_Options_03_10Smarttags,AutoCorrect
+KeyStroke,{LEFT},AutoCorrect
+WinCap,Word_Options_03_11AutoFormat,AutoCorrect
+KeyStroke,{UP},AutoCorrect
+KeyStroke,{ESC},AutoCorrect
+KeyStroke,{SHIFTDOWN}{TAB}{SHIFTUP},Word Options
+KeyStroke,{DOWN},Word Options
+WinCap,Word_Options_04TabSave,Word Options
+KeyStroke,{DOWN},Word Options
+WinCap,Word_Options_05_1TabAdvanced,Word Options
+KeyStroke,{TAB}{PGDN},Word Options
+WinCap,Word_Options_05_2TabAdvanced,Word Options
+KeyStroke,{PGDN},Word Options
+WinCap,Word_Options_05_3TabAdvanced,Word Options
+KeyStroke,{PGDN},Word Options
+WinCap,Word_Options_05_4TabAdvanced,Word Options
+KeyStroke,{SHIFTDOWN}{TAB}{SHIFTUP},Word Options
+KeyStroke,{DOWN},Word Options
+WinCap,Word_Options_06TabCustomize,Word Options
+KeyStroke,!t,Word Options
+WinCap,Word_Options_06_2CustomizeKeyboard,Customize Keyboard
+KeyStroke,{ESC},Customize Keyboard
+KeyStroke,{TAB}{TAB}{TAB},Word Options
+KeyStroke,{DOWN},Word Options
+WinCap,Word_Options_07_01TabAddIns,Word Options
+KeyStroke,{UP}{UP},Word Options
+KeyStroke,{TAB},Word Options
+KeyStroke,!n,Word Options
+KeyStroke,!n,Word Options
+KeyStroke,{ENTER},Word Options
+WinCap,Word_Options_07_02Settings,Settings
+KeyStroke,{ESC},Settings
+KeyStroke,{ESC},Word Options
+ENDTEST,,

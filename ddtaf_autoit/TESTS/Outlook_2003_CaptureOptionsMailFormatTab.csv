@@ -1,0 +1,27 @@
+LoadTable,Table_Outlook2003.csv,,,continue
+SelectTab,,Options,(tab)Mail Format,continue
+WinCap,OptionsMailFormat,Options,(tab)Mail Format,continue
+Click,,Options,(tab)Mail Format(btn)Internet Format,continue
+WinCap,OptionsMailFormat,Internet Format,,continue
+KeyStroke,{ESC},Internet Format,,continue
+Click,,Options,(tab)Mail Format(btn)International Options,continue
+WinCap,OptionsMailFormat,International Options,,continue
+KeyStroke,{ESC},International Options,,continue
+Click,,Options,(tab)Mail Format(btn)Fonts,continue
+WinCap,OptionsMailFormat,Fonts,,continue
+Click,,Fonts,(btn)International Fonts,continue
+WinCap,OptionsMailFormat,Fonts,,continue
+KeyStroke,{ESC},Fonts,,continue
+KeyStroke,{ESC},Fonts,,continue
+Click,,Options,(tab)Mail Format(btn)Stationery Picker,continue
+WinCap,OptionsMailFormat,Stationery Picker,,continue
+KeyStroke,{ESC},Stationery Picker,,continue
+WinCap,OptionsMailFormat,WordMail Template,,continue
+KeyStroke,{ESC},WordMail Template,,continue
+Click,,Options,(tab)Mail Format(btn)Signatures,continue
+WinCap,OptionsMailFormat,Create Signature,,continue
+KeyStroke,{ESC},Create Signature,,continue
+Skip,,Options,(tab)Mail Format(btn)Editor Options,continue
+Skip,OptionsMailFormat,Editor Options,,continue
+Skip,{ESC},Editor Options,,continue
+ENDTEST,,,,

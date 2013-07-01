@@ -1,0 +1,4 @@
+launch,http://phyllisvksvrint/,IE,,continue,continue
+enter,kaseya,IE,(txt)User Name,continue,continue
+enter,kaseya,IE,(txt)Password,continue,continue
+click,,IE,(btn)Login,continue,continue

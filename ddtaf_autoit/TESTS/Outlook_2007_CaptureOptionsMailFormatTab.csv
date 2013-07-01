@@ -1,0 +1,19 @@
+LoadTable,Table_Outlook2007.csv,,
+SelectTab,,Options,(tab)Mail Format
+WinCap,Restore,Options,(tab)Mail Format
+Click,,Options,(tab)Mail Format(btn)Internet Format
+WinCap,Restore,Internet Format,
+KeyStroke,{ESC},Internet Format,
+Click,,Options,(tab)Mail Format(btn)International Options
+WinCap,Restore,International Options,
+KeyStroke,{ESC},International Options,
+Click,,Options,(tab)Mail Format(btn)Stationery and Fonts
+WinCap,Restore,Signatures and Stationery,
+KeyStroke,{ESC},Signatures and Stationery,
+Click,,Options,(tab)Mail Format(btn)Signatures
+WinCap,Restore,Signatures and Stationery,
+KeyStroke,{ESC},Signatures and Stationery,
+Click,,Options,(tab)Mail Format(btn)Editor Options
+WinCap,Restore,Editor Options,
+KeyStroke,{ESC},Editor Options,
+ENDTEST,,,

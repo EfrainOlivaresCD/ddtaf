@@ -1,0 +1,25 @@
+LoadTable,Table_InternetExp07.csv,,,
+SelectTab,,Internet Options,(tab)General,continue
+WinCap,TabGeneral,Internet Options,(tab)General,continue
+Click,,Internet Options,(tab)General\Browsing history(btn)Settings,continue
+WinCap,TabGeneral_TempIntFiles,Temporary Internet Files and History Settings,,continue
+KeyStroke,{ESC},Temporary Internet Files and History Settings,,continue
+Click,,Internet Options,(tab)General\Search(btn)Settings,continue
+WinCap,TabGeneral_SearchDefaults,Change Search Defaults,,continue
+KeyStroke,{ESC},Change Search Defaults,,continue
+Click,,Internet Options,(tab)General\Tabs(btn)Settings,continue
+WinCap,TabGeneral_TabbedBrowsing,Tabbed Browsing Settings,,continue
+KeyStroke,{ESC},Tabbed Browsing Settings,,continue
+Click,,Internet Options,(tab)General(btn)Colors,continue
+WinCap,TabGeneral_BtnColors,Colors,,continue
+KeyStroke,{ESC},Colors,,continue
+Click,,Internet Options,(tab)General(btn)Fonts,continue
+WinCap,TabGeneral_BtnFonts,Fonts,,continue
+KeyStroke,{ESC},Fonts,,continue
+Click,,Internet Options,(tab)General(btn)Languages,continue
+WinCap,TabGeneral_BtnLanguages,Language Preference,,continue
+KeyStroke,{ESC},Language Preference,,continue
+Click,,Internet Options,(tab)General(btn)Accessibility,continue
+WinCap,TabGeneral_BtnAccessibility,Accessibility,,continue
+KeyStroke,{ESC},Accessibility,,continue
+ENDTEST,,,,

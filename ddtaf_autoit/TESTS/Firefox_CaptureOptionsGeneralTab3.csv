@@ -1,0 +1,15 @@
+WinCap,Options_Security,Options
+KeyStroke,{TAB 2} {e},Options
+WinCap,Options_Security_Exceptions,Allowed Sites - Add-ons Installation
+KeyStroke,!c,Allowed Sites - Add-ons Installation
+KeyStroke,{TAB 5} {x},Options
+WinCap,Options_Security_Exceptions2,Don't Remember Passwords
+KeyStroke,{ESC},Don't Remember Passwords
+KeyStroke,{TAB 2}{p},Options
+WinCap,Options_Security_ShowPass,Remember Passwords
+KeyStroke,{ESC},Remember Passwords
+KeyStroke,{TAB}{s},Options
+WinCap,Options_Security_Settings,Security Warnings
+KeyStroke,{ESC},Security Warnings
+KeyStroke,{TAB 4}{RIGHT},Options
+ENDTEST,,

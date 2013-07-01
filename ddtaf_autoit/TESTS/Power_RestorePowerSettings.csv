@@ -1,0 +1,54 @@
+LoadTable,Table_PowerSettings.csv,,
+Launch,powercfg.cpl,,
+SetFocus,,Power Options Properties,
+SelectTab,,Power Options Properties,(tab)Hibernate
+Check,,Power Options Properties,(tab)Hibernate(chk)Enable hibernation
+SelectTab,,Power Options Properties,(tab)Power Schemes
+Select,Home/Office Desk,Power Options Properties,(tab)Power Schemes(cbx)Power schemes
+Select,After 1 hour,Power Options Properties,(tab)Power Schemes(cbx)Turn off monitor
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)Turn off hard disks
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)System standby
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)System hibernates
+Click,,Power Options Properties,(btn)Apply
+Select,Portable/Laptop,Power Options Properties,(tab)Power Schemes(cbx)Power schemes
+Select,After 15 mins,Power Options Properties,(tab)Power Schemes(cbx)Turn off monitor
+Select,After 30 mins,Power Options Properties,(tab)Power Schemes(cbx)Turn off hard disks
+Select,After 20 mins,Power Options Properties,(tab)Power Schemes(cbx)System standby
+Select,After 3 hours,Power Options Properties,(tab)Power Schemes(cbx)System hibernates
+Click,,Power Options Properties,(btn)Apply
+Select,Presentation,Power Options Properties,(tab)Power Schemes(cbx)Power schemes
+Select,After 1 min,Power Options Properties,(tab)Power Schemes(cbx)Turn off monitor
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)Turn off hard disks
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)System standby
+Select,After 1 min,Power Options Properties,(tab)Power Schemes(cbx)System hibernates
+Click,,Power Options Properties,(btn)Apply
+Select,Always On,Power Options Properties,(tab)Power Schemes(cbx)Power schemes
+Select,After 20 mins,Power Options Properties,(tab)Power Schemes(cbx)Turn off monitor
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)Turn off hard disks
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)System standby
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)System hibernates
+Click,,Power Options Properties,(btn)Apply
+Select,Minimal Power Management,Power Options Properties,(tab)Power Schemes(cbx)Power schemes
+Select,After 15 mins,Power Options Properties,(tab)Power Schemes(cbx)Turn off monitor
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)Turn off hard disks
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)System standby
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)System hibernates
+Click,,Power Options Properties,(btn)Apply
+Select,Max Battery,Power Options Properties,(tab)Power Schemes(cbx)Power schemes
+Select,After 15 mins,Power Options Properties,(tab)Power Schemes(cbx)Turn off monitor
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)Turn off hard disks
+Select,After 20 mins,Power Options Properties,(tab)Power Schemes(cbx)System standby
+Select,Never,Power Options Properties,(tab)Power Schemes(cbx)System hibernates
+Click,,Power Options Properties,(btn)Apply
+SelectTab,,Power Options Properties,(tab)Advanced
+UnCheck,,Power Options Properties,(tab)Advanced(chk)Always show icon on the taskbar
+Check,,Power Options Properties,(tab)Advanced(chk)Prompt for password when computer resumes from standby
+Select,Shut down,Power Options Properties,(tab)Advanced(cbx)When I press the power button on my computer
+Click,,Power Options Properties,(btn)Apply
+SelectTab,,Power Options Properties,(tab)Hibernate
+UnCheck,,Power Options Properties,(tab)Hibernate(chk)Enable hibernation
+Click,,Power Options Properties,(btn)Apply
+SelectTab,,Power Options Properties,(tab)Power Schemes
+Select,Home/Office Desk,Power Options Properties,(tab)Power Schemes(cbx)Power schemes
+Click,,Power Options Properties,(btn)Apply
+ENDTEST,,,

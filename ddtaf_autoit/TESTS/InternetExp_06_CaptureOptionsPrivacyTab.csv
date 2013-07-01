@@ -1,0 +1,10 @@
+LoadTable,Table_InternetExp06.csv,,,
+SelectTab,,Internet Options,(tab)Privacy,continue
+WinCap,TabPrivacy,Internet Options,,continue
+Click,,Internet Options,(tab)Privacy(btn)Advanced,continue
+WinCap,TabPrivacy_BtnAdvanced,Advanced Privacy Settings,,continue
+KeyStroke,{ESC},Advanced Privacy Settings,,continue
+Click,,Internet Options,(tab)Privacy(btn)Settings,continue
+WinCap,TabPrivacy_BtnSettings,Pop-up Blocker Settings,,continue
+KeyStroke,{ESC},Pop-up Blocker Settings,,continue
+ENDTEST,,,,

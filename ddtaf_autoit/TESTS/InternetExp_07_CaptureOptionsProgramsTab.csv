@@ -1,0 +1,7 @@
+LoadTable,Table_InternetExp07.csv,,,
+SelectTab,,Internet Options,(tab)Programs,continue
+WinCap,TabPrograms,Internet Options,,continue
+Click,,Internet Options,(tab)Programs(btn)Manage Add-ons,continue
+WinCap,TabPrograms_ManageAddons,Manage Add-ons,,continue
+KeyStroke,{ESC},Manage Add-ons,,continue
+ENDTEST,,,,

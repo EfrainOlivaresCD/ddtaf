@@ -1,0 +1,3 @@
+Launch,c:\program files\skype\phone\skype.exe,,,continue
+Sleep,5000,Skype,,continue
+ENDTEST,,Options,,continue

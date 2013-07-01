@@ -1,0 +1,9 @@
+rem DDTAF_LITE Outlook_2003_CaptureCustomize.csv
+DDTAF_LITE Outlook_OpenOptionsDlg.csv
+DDTAF_LITE Outlook_2003_CaptureOptionsPreferencesTab.csv
+rem DDTAF_LITE Outlook_2003_CaptureOptionsMailSetupTab.csv
+rem DDTAF_LITE Outlook_2003_CaptureOptionsMailFormatTab.csv
+rem DDTAF_LITE Outlook_2003_CaptureOptionsSpellingTab.csv
+rem DDTAF_LITE Outlook_2003_CaptureOptionsSecurityTab.csv
+rem DDTAF_LITE Outlook_2003_CaptureOptionsOtherTab.csv
+DDTAF_LITE Outlook_CloseOptionsDlg.csv 

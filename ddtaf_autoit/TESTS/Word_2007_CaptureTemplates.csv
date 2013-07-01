@@ -1,0 +1,13 @@
+KeyStroke,!t,Microsoft Word,,continue
+KeyStroke,i,Microsoft Word,,continue
+WinCap,Word_Templates_01Templates,Templates and Add-ins,,continue
+KeyStroke,{SHIFTDOWN}{TAB}{SHIFTUP},Templates and Add-ins,,
+KeyStroke,{RIGHT},Templates and Add-ins,,continue
+WinCap,Word_Templates_02XMLSchema,Templates and Add-ins,,continue
+KeyStroke,{RIGHT},Templates and Add-ins,,continue
+WinCap,Word_Templates_03XMLExpansion,Templates and Add-ins,,
+KeyStroke,{RIGHT},Templates and Add-ins,,continue
+WinCap,Word_Templates_04LinkedCSS,Templates and Add-ins,,
+KeyStroke,{RIGHT},Templates and Add-ins,,
+KeyStroke,{ESC},Templates and Add-ins,,
+ENDTEST,,,,

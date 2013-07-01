@@ -1,0 +1,7 @@
+KeyStroke,!s,Skype,,stop
+KeyStroke,s,Skype,,stop
+Sleep,5000,,,continue
+KeyStroke,!s,Skype,,stop
+KeyStroke,c,Skype,,stop
+Sleep,5000,,,continue
+ENDTEST,,,,

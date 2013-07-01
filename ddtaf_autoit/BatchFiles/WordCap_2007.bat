@@ -1,0 +1,2 @@
+Rem DDTAF_LITE Word_2007_CaptureTemplates.csv
+DDTAF_LITE Word_2007_CaptureOptions.csv

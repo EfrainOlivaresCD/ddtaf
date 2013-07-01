@@ -1,0 +1,15 @@
+KeyStroke,!t,Microsoft Excel
+KeyStroke,c,Microsoft Excel
+KeyStroke,!b,Customize
+WinCap,Customize_01_01_TabToolbars,Customize
+KeyStroke,{TAB}{PGDN}{PGDN},Customize
+WinCap,Customize_01_02_TabToolbars,Customize
+KeyStroke,{PGDN},Customize
+WinCap,Customize_01_03_TabToolbars,Customize
+KeyStroke,!c,Customize
+WinCap,Customize_02_TabCommands,Customize
+KeyStroke,!o,Customize
+WinCap,Customize_03_TabOptions,Customize
+KeyStroke,!b,Customize
+KeyStroke,{ESC},Customize
+ENDTEST,,

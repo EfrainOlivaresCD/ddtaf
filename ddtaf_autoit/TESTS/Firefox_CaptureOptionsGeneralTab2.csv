@@ -1,0 +1,13 @@
+WinCap,Options_Privacy,Options,,continue
+KeyStroke,!e,Options,,
+WinCap,Options_Privacy_Exceptions,Exceptions - Cookies,,
+KeyStroke,!c,Exceptions - Cookies,,
+KeyStroke,!s,Options,,
+WinCap,Options_Privacy_Cookies,Cookies,,
+KeyStroke,!c,Cookies,,
+KeyStroke,!t,Options,,
+WinCap,Options_Privacy_Settings,Clear Private Data,,
+KeyStroke,{ESC},Clear Private Data,,
+KeyStroke,{TAB 6},Options,,
+KeyStroke,{RIGHT},Options,,
+ENDTEST,,,,

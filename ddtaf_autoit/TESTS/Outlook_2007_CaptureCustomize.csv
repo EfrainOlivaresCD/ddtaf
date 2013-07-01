@@ -1,0 +1,10 @@
+LoadTable,Table_Outlook2007.csv,
+KeyStroke,{ALT}{T}{C},Microsoft Outlook
+KeyStroke,!b,Customize
+WinCap,OptionsCustomize,Customize
+KeyStroke,!c,Customize
+WinCap,OptionsCustomize,Customize
+KeyStroke,!o,Customize
+WinCap,OptionsCustomize,Customize
+KeyStroke,{ESC},Customize
+ENDTEST,,

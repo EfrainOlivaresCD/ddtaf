@@ -1,0 +1,18 @@
+KeyStroke,!v,Mozilla Firefox,,continue
+KeyStroke,t,Mozilla Firefox,,continue
+WinCap,Firefox_MnuView_Toolbars,Mozilla Firefox,,continue
+KeyStroke,{ESC},Mozilla Firefox,,continue
+KeyStroke,z,Mozilla Firefox,,continue
+WinCap,Firefox_MnuView_TextSize,Mozilla Firefox,,continue
+KeyStroke,{ESC},Mozilla Firefox,,continue
+KeyStroke,y,Mozilla Firefox,,continue
+WinCap,Firefox_MnuView_PageStyle,Mozilla Firefox,,continue
+KeyStroke,{ESC},Mozilla Firefox,,continue
+KeyStroke,c,Mozilla Firefox,,continue
+WinCap,Firefox_MnuView_Encoding,Mozilla Firefox,,continue
+KeyStroke,{ESC},Mozilla Firefox,,continue
+KeyStroke,{ESC},Mozilla Firefox,,continue
+KeyStroke,!b,Mozilla Firefox,,continue
+WinCap,Firefox_MnuBookmarks,Mozilla Firefox,,continue
+KeyStroke,{ESC},Mozilla Firefox,,continue
+ENDTEST,,,,

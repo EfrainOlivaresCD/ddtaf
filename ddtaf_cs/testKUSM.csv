@@ -1,0 +1,13 @@
+launch,http://phyllisvksvrint/,IE,,continue,continue
+enter,kaseya,IE,(txt)User Name,continue,continue
+enter,kaseya,IE,(txt)Password,continue,continue
+click,,IE,(btn)Login,continue,continue
+click,,IE,(tab)User State,continue,continue
+click,,IE,(lnk)Function List\Policy\Power,continue,continue
+click,,IE,(lnk)Function List\Policy\Mapped Drives,continue,continue
+click,,IE,(lnk)Function List\Policy\Printers,continue,continue
+click,,IE,(lnk)Function List\Desktop Standard\Define Package,continue,continue
+click,,IE,(lnk)Function List\Desktop Standard\Deploy Package,continue,continue
+click,,IE,(lnk)Function List\User Settings\Backup,continue,continue
+click,,IE,(lnk)Function List\User Settings\Restore,continue,continue
+click,,IE,(lnk)Function List\User Settings\Migrate,continue,continue

@@ -1,0 +1,124 @@
+LoadTable,Table_Outlook2007.csv,,
+KeyStroke,{ALT}{T}{O},Microsoft Outlook,
+SelectTab,,Options,(tab)Preferences
+WinCap,Restore,Options,(tab)Preferences
+Click,,Options,(tab)Preferences(btn)Junk E-mail
+SelectTab,,Junk E-mail Options,(tab)Options
+WinCap,Restore,Junk E-mail Options,(tab)Options
+SelectTab,,Junk E-mail Options,(tab)Safe Senders
+WinCap,Restore,Junk E-mail Options,(tab)Safe Senders
+SelectTab,,Junk E-mail Options,(tab)Safe Recipients
+WinCap,Restore,Junk E-mail Options,(tab)Safe Recipients
+SelectTab,,Junk E-mail Options,(tab)Blocked Senders
+WinCap,Restore,Junk E-mail Options,(tab)Blocked Senders
+SelectTab,,Junk E-mail Options,(tab)International
+WinCap,Restore,Junk E-mail Options,(tab)International
+KeyStroke,{ESC},Junk E-mail Options,
+Click,,Options,(tab)Preferences(btn)E-mail Options
+WinCap,Restore,E-mail Options,
+Click,,E-mail Options,(btn)Advanced E-mail Options
+WinCap,Restore,Advanced E-mail Options,
+Click,,Advanced E-mail Options,(btn)Desktop Alert Settings
+WinCap,Restore,Desktop Alert Settings,
+KeyStroke,{ESC},Desktop Alert Settings,
+KeyStroke,{ESC},Advanced E-mail Options,
+Click,,E-mail Options,(btn)Tracking Options
+WinCap,Restore,Tracking Options,
+KeyStroke,{ESC},Tracking Options,
+KeyStroke,{ESC},E-mail Options,
+Click,,Options,(tab)Preferences(btn)Calendar Options
+WinCap,Restore,Calendar Options,
+Click,,Calendar Options,(btn)Planner Options
+WinCap,Restore,Planner Options,
+KeyStroke,{ESC},Planner Options,
+Click,,Calendar Options,(btn)Add Holidays
+WinCap,Restore,Add Holidays to Calendar,
+KeyStroke,{ESC},Add Holidays to Calendar,
+Click,,Calendar Options,(btn)Free/Busy Options
+WinCap,Restore,Free/Busy Options,
+KeyStroke,{ESC},Free/Busy Options,
+Click,,Calendar Options,(btn)Resource Scheduling
+WinCap,Restore,Resource Scheduling,
+KeyStroke,{ESC},Resource Scheduling,
+Click,,Calendar Options,(btn)Time Zone
+WinCap,Restore,Time Zone,
+KeyStroke,{ESC},Time Zone,
+KeyStroke,{ESC},Calendar Options,
+Click,,Options,(tab)Preferences(btn)Task Options
+WinCap,Restore,Task Options,
+KeyStroke,{ESC},Task Options,
+Click,,Options,(tab)Preferences(btn)Contact Options
+WinCap,Restore,Contact Options,
+KeyStroke,{ESC},Contact Options,
+Click,,Options,(tab)Preferences(btn)Journal Options
+WinCap,Restore,Journal Options,
+KeyStroke,{ESC},Journal Options,
+Click,,Options,(tab)Preferences(btn)Note Options
+WinCap,Restore,Notes Options,
+KeyStroke,{ESC},Notes Options,
+Click,,Options,(tab)Preferences(btn)Search Options
+WinCap,Restore,Search Options,
+KeyStroke,{ESC},Search Options,
+SelectTab,,Options,(tab)Mail Setup
+WinCap,Restore,Options,(tab)Mail Setup
+Click,,Options,(tab)Mail Setup(btn)E-mail Accounts
+WinCap,Restore,Account Settings,
+KeyStroke,{ESC},Account Settings,
+Click,,Options,(tab)Mail Setup(btn)Send/Receive
+WinCap,Restore,Send/Receive Groups,
+KeyStroke,{ESC},Send/Receive Groups,
+Click,,Options,(tab)Mail Setup(btn)Data Files
+WinCap,Restore,Account Settings,
+KeyStroke,{ESC},Account Settings,
+SelectTab,,Options,(tab)Mail Format
+WinCap,Restore,Options,(tab)Mail Format
+Click,,Options,(tab)Mail Format(btn)Internet Format
+WinCap,Restore,Internet Format,
+KeyStroke,{ESC},Internet Format,
+Click,,Options,(tab)Mail Format(btn)International Options
+WinCap,Restore,International Options,
+KeyStroke,{ESC},International Options,
+Click,,Options,(tab)Mail Format(btn)Stationery and Fonts
+WinCap,Restore,Signatures and Stationery,
+KeyStroke,{ESC},Signatures and Stationery,
+Click,,Options,(tab)Mail Format(btn)Signatures
+WinCap,Restore,Signatures and Stationery,
+KeyStroke,{ESC},Signatures and Stationery,
+Click,,Options,(tab)Mail Format(btn)Editor Options
+WinCap,Restore,Editor Options,
+KeyStroke,{ESC},Editor Options,
+SelectTab,,Options,(tab)Spelling
+WinCap,Restore,Options,(tab)Spelling
+Click,,Options,(tab)Spelling(btn)Spelling and AutoCorrection
+WinCap,Restore,Editor Options,
+KeyStroke,{ESC},Editor Options,
+SelectTab,,Options,(tab)Other
+WinCap,Restore,Options,(tab)Other
+Click,,Options,(tab)Other(btn)Advanced Options
+WinCap,Restore,Advanced Options,
+Click,,Advanced Options,(btn)Reminder Options
+WinCap,Restore,Reminder Options,
+KeyStroke,{ESC},Reminder Options,
+Click,,Advanced Options,(btn)Custom Forms
+WinCap,Restore,Options,
+KeyStroke,{ESC},Options,
+Click,,Advanced Options,(btn)Service Options
+WinCap,Restore,Service Options,
+KeyStroke,{ESC},Service Options,
+KeyStroke,{ESC},Advanced Options,
+Click,,Options,(tab)Other(btn)AutoArchive
+WinCap,Restore,AutoArchive,
+KeyStroke,{ESC},AutoArchive,
+Click,,Options,(tab)Other(btn)Navigation Pane
+WinCap,Restore,Navigation Pane Options,
+KeyStroke,{ESC},Navigation Pane Options,
+Click,,Options,(tab)Other(btn)Reading Pane
+WinCap,Restore,Reading Pane,
+KeyStroke,{ESC},Reading Pane,
+Click,,Options,(tab)Other(btn)To-Do Bar
+WinCap,Restore,To-Do Bar Options,
+KeyStroke,{ESC},To-Do Bar Options,
+SelectTab,,Options,(tab)Delegates
+WinCap,Restore,Options,(tab)Delegates
+KeyStroke,{ESC},Options,
+ENDTEST,,,

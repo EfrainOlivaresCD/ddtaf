@@ -1,0 +1,11 @@
+KeyStroke,{ALT},David Ratchford (o),,continue
+KeyStroke,{a},David Ratchford (o),,continue
+KeyStroke,{ENTER},David Ratchford (o),,continue
+KeyStroke,{ENTER},David Ratchford (o),,continue
+Sleep,50000,,,continue
+KeyStroke,{ALT},David Ratchford (o),,continue
+KeyStroke,{a},David Ratchford (o),,continue
+KeyStroke,{ENTER},David Ratchford (o),,continue
+KeyStroke,{n},David Ratchford (o),,continue
+Sleep,1000,,,continue
+ENDTEST,,,,

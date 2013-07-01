@@ -1,0 +1,16 @@
+LoadTable,Table_InternetExp07.csv,,,
+KeyStroke,!v,Windows Internet Explorer,,continue
+KeyStroke,t,Windows Internet Explorer,,continue
+WinCap,IE6_MnuView_Toolbars,Windows Internet Explorer,,continue
+KeyStroke,{ESC},Windows Internet Explorer,,continue
+KeyStroke,x,Windows Internet Explorer,,continue
+WinCap,IE6_MnuView_TextSize,Windows Internet Explorer,,continue
+KeyStroke,{ESC},Windows Internet Explorer,,continue
+KeyStroke,d,Windows Internet Explorer,,continue
+WinCap,IE6_MnuView_Encoding,Windows Internet Explorer,,continue
+KeyStroke,{ESC},Windows Internet Explorer,,continue
+KeyStroke,{ESC},Windows Internet Explorer,,continue
+KeyStroke,!a,Windows Internet Explorer,,continue
+WinCap,IE6_MnuView_Favorites,Windows Internet Explorer,,continue
+KeyStroke,{ESC},Windows Internet Explorer,,continue
+ENDTEST,,,,

@@ -1,0 +1,13 @@
+LoadTable,Table_InternetExp06.csv,,,
+SelectTab,,Internet Options,(tab)Advanced,continue
+KeyStroke,{PGDN},Internet Options,,continue
+WinCap,TabAdvanced1,Internet Options,,continue
+KeyStroke,{PGDN},Internet Options,,continue
+WinCap,TabAdvanced2,Internet Options,,continue
+KeyStroke,{PGDN},Internet Options,,continue
+WinCap,TabAdvanced3,Internet Options,,continue
+KeyStroke,{PGDN},Internet Options,,continue
+WinCap,TabAdvanced4,Internet Options,,continue
+KeyStroke,{PGDN},Internet Options,,continue
+WinCap,TabAdvanced5,Internet Options,,continue
+ENDTEST,,,,

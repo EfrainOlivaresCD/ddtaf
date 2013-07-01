@@ -1,0 +1,31 @@
+LoadTable,Table_InternetExp06.csv,,,
+SelectTab,,Internet Options,(tab)Content,continue
+WinCap,TabContent,Internet Options,,continue
+Click,,Internet Options,(tab)Content(btn)Settings,continue
+KeyStroke,versora,Supervisor Password Required,,continue
+KeyStroke,{ENTER},Supervisor Password Required,,continue
+SelectTab,,Content Advisor,(tab)Ratings,continue
+WinCap,TabContent_BtnSettings1,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings2,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings3,Content Advisor,,continue
+KeyStroke,{DOWN},Content Advisor,,continue
+WinCap,TabContent_BtnSettings4,Content Advisor,,continue
+SelectTab,,Content Advisor,(tab)Approved Sites,continue
+WinCap,ContentAdvisor_TabApprovedSites,Content Advisor,,continue
+SelectTab,,Content Advisor,(tab)General,continue
+WinCap,ContentAdvisor_TabGeneral,Content Advisor,,continue
+SelectTab,,Content Advisor,(tab)Advanced,continue
+WinCap,ContentAdvisor_TabAdvanced,Content Advisor,,continue
+KeyStroke,{ESC},Content Advisor,,continue
+Click,,Internet Options,(tab)Content(btn)Certificates,continue
+WinCap,TabContent_BtnCertificates,Certificates,,continue
+KeyStroke,{ESC},Certificates,,continue
+Click,,Internet Options,(tab)Content(btn)Publishers,continue
+WinCap,TabContent_BtnPublishers,Certificates,,continue
+KeyStroke,{ESC},Certificates,,continue
+Click,,Internet Options,(tab)Content(btn)My Profile,continue
+WinCap,TabContent_BtnMyProfile,Address Book,,continue
+KeyStroke,{ESC},Address Book,,continue
+ENDTEST,,,,
