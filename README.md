@@ -1,35 +1,3 @@
-Date: 2013 06 30
-
-DDTAF = Data Driven Test Automation Framework
-============================================
-The original idea for this came from a paper written by Dupire & Fernandez,
-The Command Dispatcher Pattern, and from a talk on test automation by 
-Linda Hayes, STARWEST 2006.  The talk had one main component which was 
-to a 'table-driven' approach.  There were not enough details though to 
-really build a framework.
-
-By combining the two sources above it was possible to build a test framework
-which took as in input a 'table', (csv), and then execute via handlers.
-
-All logic for the flow, error handling, retries, recovery, etc were isolated
-to the framework.  This had the effect of dividing up the work into three
-very well compartamentalized areas.
-
- * All the 'tests' were written in csv 'tables' by the test domain expert users
- * The framework was maintained by a small engineerig group which needed
-no knowledge of the 'test' contents.  Work was directed at the flow of commands.
- * Handlers, were implemented by both testers, feature engineers or test
-framework engineers.  Given how well isolated they were they could be 
-'plugged in' and modified separately.  These handlers covered everything from
-    * Command line level calls
-    * GUI automation calls
-    * XML conversion
-    * HTML generation for reporting
-
-This archive preserves to bareboned uses of the pattern, one in AutoIT and one
-in C#. A third new version in ruby is getting fleshed out.
-
-
 DDTAF reconstruction in Ruby.
 =============================
 
