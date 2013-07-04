@@ -17,7 +17,7 @@ class Dispatcher
       puts "Key: #{key}\t\tcmd: #{cmd}"
     }
   end
-
+# TODO: this should take key, not cmd as a parameter
   def run( cmd )
     puts "Dispatcher receieved command with key #{cmd.key}"
     if @cmd_keys[cmd.key] != nil
