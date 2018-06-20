@@ -7,7 +7,7 @@ _password = os.environ['PASSWORD']
 
 driver = webdriver.Remote('http://127.0.0.1:9515')
 
-driver.get('https://dev.carpe.io/login')
+driver.get('https://dev.carpe.io/flow/internal/controller/conversion/subject_csv_import?company_id=33&json_schema_id=24')
 
 
 ctl_user_name = driver.find_element_by_id("username")
